@@ -1,5 +1,5 @@
-# A sand box for playing with Javascript with some help by:
+# Simple Slider
 
-## [HTML5 Boilerplate](http://html5boilerplate.com)
+## Simple jQuery slider
 
-I will probably update the README with things that I learn to document my progress.
+First jQuery slider I've made. Be warned! More docs to come soon.
